@@ -1,6 +1,11 @@
 Solutions to hackerrank.com challenges
 ======================================
 
-Here you will be able to see my solutions to differents challenges presented on [hackerrank.com](http://www.hackerrank.com).
+Here are my *quick & dirty* solutions to differents challenges presented on 
+[hackerrank.com](http://www.hackerrank.com).
 
-De solutions are organized like in the site and will have the link to the original description of the challenge.
+The solutions are organized like in the site and contains the link to the 
+original description of the challenge.
+
+> *Note:* Probably, many of the solutions could be optimized but the purpose
+> was not to made an optimal solution, but to pass the challenge tests.
